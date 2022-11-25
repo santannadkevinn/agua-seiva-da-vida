@@ -69,6 +69,7 @@ p{
     list-style: none;
     font-size: 20px;
     padding: 5px;
+    cursor: pointer;
 }
 
 #res{
@@ -77,7 +78,7 @@ p{
     width: 40%;
 }
 
-.water{
+/*.water{
     margin: auto;
     width: 500px;
 }
@@ -94,7 +95,7 @@ img.waterCell{
 .cells{
     width: 20%;
 }
-
+*/
 
 
 
