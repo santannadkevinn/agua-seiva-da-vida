@@ -53,7 +53,8 @@ p{
 }
 
 .water{
-    width: 200px;
+    margin: auto;
+    width: 500px;
 }
 
 img.waterCell{
