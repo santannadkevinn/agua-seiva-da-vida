@@ -55,11 +55,13 @@ p{
 #list{
     width: 100%;
     display:inline-block;
+    background-color: gray;
+    height: 295px;
 }
 
 #list1{
     display: inline-block;
-    width: 45%;
+    width: 40%;
 }
 
 .chemistryElements{
@@ -73,9 +75,16 @@ p{
 }
 
 #res{
+    padding-left: -20px;
     display: inline-block;
-    background-color: blue;
-    width: 40%;
+    background-color: gray;
+    width: 53%;
+}
+
+#res > p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
 }
 
 /*.water{
