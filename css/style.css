@@ -52,12 +52,13 @@ p{
     margin-bottom: 15px;
 }
 
-#list{
+section#list{
     width: 100%;
     display:inline-block;
     background-color: gray;
     height: 260px;
     margin-bottom: 20px;
+    margin: 0px;
 }
 
 #list1{
@@ -70,7 +71,7 @@ p{
     border: 1px solid black;
     color: black;
     list-style: none;
-    font-size: 20px;
+    font-size: 15px;
     padding: 5px;
     cursor: pointer;
 }
@@ -87,11 +88,13 @@ p{
     width: 53%;
 }
 
-#res > p{
+ p#whyNot{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 18px;
+    font-size: 15px;
     color: white;
     height: 240px;
+    padding-top: 10px;
+    margin-bottom: -10px;
 }
 
 .water{
