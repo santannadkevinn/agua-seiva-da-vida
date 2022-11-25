@@ -21,7 +21,7 @@ header > h1{
 }
 
 #danger{
-    font-size: 60px;
+    font-size: 50px;
     animation: animate 2.5s linear infinite;
 }
 
