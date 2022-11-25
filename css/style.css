@@ -12,7 +12,7 @@
 
 
 header > h1{
-    background-color: #252424;
+    background-color: #444444;
     padding-top: 10px;
     font-family: 'Anton', sans-serif;
     color: white;
@@ -22,18 +22,24 @@ header > h1{
 
 #danger{
     font-size: 60px;
-    animation: animate 1.5s linear infinite;
+    animation: animate 2.5s linear infinite;
 }
 
 @keyframes animate {
     0%{
-        color: red;
+        color: white;
+    }
+    25%{
+        color: rgb(160, 45, 45);
     }
     50%{
         color: red;
     }
+    75%{
+        color: rgb(160, 45, 45);
+    }
     100%{
-        opacity: 1;
+        color: white;
     }
 }
 
