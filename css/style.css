@@ -52,6 +52,31 @@ p{
     margin-bottom: 15px;
 }
 
+#list{
+    width: 100%;
+    display:inline-block;
+}
+
+#list1{
+    display: inline-block;
+    width: 45%;
+}
+
+.chemistryElements{
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    list-style: none;
+    font-size: 20px;
+    padding: 5px;
+}
+
+#res{
+    display: inline-block;
+    background-color: blue;
+    width: 40%;
+}
+
 .water{
     margin: auto;
     width: 500px;
