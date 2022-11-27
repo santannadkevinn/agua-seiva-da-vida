@@ -57,7 +57,6 @@ section#list{
     width: 100%;
     display:inline-block;
     background-color: gray;
-    height: 220px;
     margin-bottom: 20px;
     margin: 0px;
 }
@@ -65,7 +64,6 @@ section#list{
 #list1{
     display:inline-block;
     width: 40%;
-    height: 175px;
 }
 
 .chemistryElements{
