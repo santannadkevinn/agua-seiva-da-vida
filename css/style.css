@@ -34,7 +34,7 @@ ul{
 }
 
 main{
-    width: 80vw;
+    width: 90vw;
     margin: auto;
 }
 h2{
@@ -57,7 +57,7 @@ section#list{
     width: 100%;
     display:inline-block;
     background-color: gray;
-    height: 200px;
+    height: 220px;
     margin-bottom: 20px;
     margin: 0px;
 }
