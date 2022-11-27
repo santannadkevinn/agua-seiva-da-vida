@@ -43,7 +43,7 @@ function element03(){
     element.style.color = 'white'
     element.style.border = '0px'
     let res = window.document.getElementById('whyNot')
-    res.innerHTML = 'Ao ingerir essa substância os riscos à saúde são extremamente altos podendo levar a morte. Ingestão causa irritação da boca e estômago e possíveis dores abdominais, vômito, diarréia, pulsação rápida e fraca e baixa pressão sanguínea. O tipo e grau dos sintomas dependem da percentagem de cloreto férrico ingeridos.'
+    res.innerHTML = 'Ingerir essa substância gera riscos severos à saúde,  podendo levar a morte. Causa irritação da boca e estômago e possíveis dores abdominais, vômito, diarréia, pulsação rápida e fraca e baixa pressão sanguínea. O tipo e grau dos sintomas dependem da percentagem de cloreto férrico ingeridos.'
     elements = ['element1', 'element2', 'element4', 'element5', 'element6' ]
     elemento = window.document.getElementById('element3').value
     idx = elements.indexOf(elemento)
@@ -61,7 +61,7 @@ function element04(){
     element1.style.color = 'white'
     element1.style.border = '0px'
     let res = window.document.getElementById('whyNot')
-    res.innerHTML= ''
+    res.innerHTML= 'O líquido pode causar severa queimadura corrosiva na boca, garganta, esôfago e estômago. Sintomas podem incluir dificuldade de engolir, sede intensa, náusea, vômito, diarreia e, casos severos: colapso e morte. O risco do câncer almenta 93% para as pessoas que estão expostas diariamente.'
     elements = ['element1', 'element3', 'element2', 'element5', 'element6' ]
     elemento = window.document.getElementById('element4').value
     idx = elements.indexOf(elemento)
@@ -79,7 +79,7 @@ function element05(){
     element1.style.color = 'white'
     element1.style.border = '0px'
     let res = window.document.getElementById('whyNot')
-    res.innerHTML= ''
+    res.innerHTML= 'Sua ingestão em excesso além de causar problemas de saúde como baixa imunidade e risco de câncer, ainda pode acarretar manchas nos dentes, que é uma doença chamada fluorose. Dentes e ossos, ao longo do tempo, passam a ficar deformados, surgem doenças e rachaduras, levando a osteoporose.'
     elements = ['element1', 'element3', 'element2', 'element4', 'element6' ]
     elemento = window.document.getElementById('element5').value
     idx = elements.indexOf(elemento)
