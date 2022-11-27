@@ -43,7 +43,7 @@ function element03(){
     element.style.color = 'white'
     element.style.border = '0px'
     let res = window.document.getElementById('whyNot')
-    res.innerHTML = 'Ingestão causa irritação da boca e estômago e possíveis dores abdominais, vômito, diarréia, pulsação rápida e fraca e baixa pressão sanguínea (sintomas aparecem dentro de 10 a 60 minutos após a ingestão).'
+    res.innerHTML = 'Ao ingerir essa substância os riscos à saúde são extremamente altos podendo levar a morte. Ingestão causa irritação da boca e estômago e possíveis dores abdominais, vômito, diarréia, pulsação rápida e fraca e baixa pressão sanguínea. O tipo e grau dos sintomas dependem da percentagem de cloreto férrico ingeridos.'
     elements = ['element1', 'element2', 'element4', 'element5', 'element6' ]
     elemento = window.document.getElementById('element3').value
     idx = elements.indexOf(elemento)
