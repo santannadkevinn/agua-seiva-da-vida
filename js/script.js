@@ -97,7 +97,7 @@ function element06(){
     element1.style.color = 'white'
     element1.style.border = '0px'
     let res = window.document.getElementById('whyNot')
-    res.innerHTML= 'A ingestão causa graves queimaduras no sistema gastrointestinal, dores abdominais, náuseas, vômito, podendo ser fatal. Tem efeitos cumulativos, podendo causar calcificação dos ligamentos e fragilidade óssea. Pode diminuir concentração plasmática de cálcio se ingerido, com possibilidade de parada cardíaca.'
+    res.innerHTML= 'A ingestão causa graves queimaduras no sistema gastrointestinal, dores abdominais, vômito, podendo ser fatal. Tem efeitos cumulativos, podendo causar calcificação dos ligamentos e fragilidade óssea. Pode diminuir concentração plasmática de cálcio se ingerido, com possibilidade de parada cardíaca.'
     elements = ['element1', 'element3', 'element2', 'element4', 'element5' ]
     elemento = window.document.getElementById('element6').value
     idx = elements.indexOf(elemento)
