@@ -96,6 +96,13 @@ section#list{
     height: 0px;
 }
 
+
+.text{
+    padding-top: 15px;
+
+}
+
+
 .water{
     margin: auto;
     width: 300px;
